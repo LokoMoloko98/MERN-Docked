@@ -1,6 +1,9 @@
 # Mern Docked
 
 Mern Docked is a project that simplifies the deployment of MERN (MongoDB, Express, React, Node.js) stack applications using Docker Compose. It offers an easy and efficient way to set up an entire MERN stack with just a few commands.
+<div align="center">
+ <img src="./images/Mern-ed Dock.jpg" alt="Demo Image" width="600" align="middle">
+</div>
 
 ## Features
 
