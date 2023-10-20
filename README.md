@@ -21,5 +21,5 @@ These instructions will help you set up and deploy your MERN stack application u
 1. Clone the Mern Docked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/mern-docked.git
+   git clone https://github.com/LokoMoloko98/mern-docked.git
    cd mern-docked
